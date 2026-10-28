@@ -13,19 +13,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=pxtrice03&data=followers,repositories,stars,commits&theme=darkmode)]()
-
-# 💻 Tech Stack:
+### 💻 Tech Stack:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=css,js,ts,express,react,bootstrap,tailwindcss,git,github,githubactions,figma" />
 </p>
 
-# 📊 GitHub Stats:
+### ✍️ Random Dev Quote
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+
+### 📊 GitHub Stats:
 
 ![Streak (plain)](https://coolreadme.xyz/api/streak-plain?user=gaearon&theme=dark&accent=%23F59E0B)
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=pxtrice03&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
