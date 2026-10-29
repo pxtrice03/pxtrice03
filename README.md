@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### 💻 Tech Stack:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=css,js,ts,bootstrap,express,git,github,githubactions,figma,react,tailwindcss" />
+  <img src="https://skillicons.dev/icons?i=css,js,ts,bootstrap,express,git,github,figma,react,tailwindcss,githubactions" />
 </p>
 
 ### ✍️ Random Dev Quote
